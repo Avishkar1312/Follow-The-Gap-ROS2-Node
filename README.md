@@ -1,1 +1,0 @@
-# Follow-The-Gap-ROS2-Node
