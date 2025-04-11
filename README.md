@@ -32,7 +32,7 @@ This algorithm can be tested on the following open-source simulators:
 1. [F1TENTH Gym ROS](https://github.com/f1tenth/f1tenth_gym_ros)  
 2. [F1TENTH Autodrive Simulator](https://github.com/AutoDRIVE-Ecosystem/AutoDRIVE-F1TENTH-Sim-Racing)
 
-After setting up the simulator 
+After setting up the simulator, the algorithm can be run on it by simply copying the code file in the respective directory and updating the "setup.py" file accordingly
 
 ## Working of the code
 1. The lidar data is published from the simulator to the ROS2 topic "/scan". This includes the distances of surrounding points from the lidar.
